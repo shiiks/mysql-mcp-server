@@ -1,0 +1,7 @@
+.git
+.gitconfig
+.idea
+.env
+.vs
+__pycache__
+README.md
